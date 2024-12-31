@@ -79,3 +79,8 @@ Security: Use SSL/TLS for encrypted WebSocket communication. Implement user auth
 This real-time chat application demonstrates how modern technologies work in harmony to deliver a seamless user experience. It serves as a practical project to explore WebSockets, ReactJS, and responsive design principles.
 
 **OUTPUT** :
+
+![1](https://github.com/user-attachments/assets/d54cd7be-767d-4dbf-8e48-6bc42874a6f2)
+![2](https://github.com/user-attachments/assets/38a997ac-0dae-4aab-8730-bc007cead418)
+![3](https://github.com/user-attachments/assets/64a46531-38bb-49c6-9bcd-171108cdc40b)
+![5](https://github.com/user-attachments/assets/aa5bd113-70d0-470a-b678-78d17e97cd82)
